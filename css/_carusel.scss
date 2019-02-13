@@ -1,0 +1,26 @@
+.carusel_nav{
+  position: absolute;
+}
+
+.carusel_nav{
+  font-size: 48px;
+  top:50%;
+  width: 60px;
+  height: 60px;
+  margin-top: -30px;
+  color:  #934370;
+}
+
+.carusel_nav:hover{
+  color: #de00d5;
+}
+
+$navposition: -100px;
+
+.carusel_nav.owl-prev{
+  left: $navposition;
+}
+
+.carusel_nav.owl-next{
+  right: $navposition;
+}

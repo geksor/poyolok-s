@@ -1,0 +1,4 @@
+User-agent: *
+Crawl-delay: 1
+Host: http://potolki-s.ru/
+Sitemap: http://potolki-s.ru/sitemap.xml

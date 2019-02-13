@@ -1,0 +1,213 @@
+@font-face {
+  font-family: Roboto-Regular;
+  src: url(../fonts/RobotoRegular.ttf);
+}
+@font-face {
+  font-family: Roboto-Bold;
+  src: url(../fonts/RobotoBold.ttf);
+}
+@font-face {
+  font-family: RobotoSlab-Bold;
+  src: url(../fonts/RobotoSlab-Bold.ttf);
+}
+@font-face {
+  font-family: RobotoSlab-Regular;
+  src: url(../fonts/RobotoSlab-Regular.ttf);
+}
+@font-face {
+  font-family: ProximaNova-Light-Italic;
+  src: url(../fonts/ProximaNovaLightItalic.otf);
+}
+@font-face {
+  font-family: ProximaNova-Light;
+  src: url(../fonts/ProximaNovaLight.otf);
+}
+@font-face {
+  font-family: ProximaNova-Regular;
+  src: url(../fonts/ProximaNovaRegular.otf);
+}
+@font-face {
+  font-family: ProximaNova-Semibold;
+  src: url(../fonts/ProximaNovaSemibold.otf);
+}
+@font-face {
+  font-family: ProximaNova-Bold;
+  src: url(../fonts/ProximaNovaBold.otf);
+}
+@font-face {
+  font-family: AABebas;
+  src: url(../fonts/AABebas.ttf);
+}
+@font-face {
+  font-family: BebasNeueRegular;
+  src: url(../fonts/BebasNeueRegular.otf);
+}
+@font-face {
+  font-family: BebasNeueBold;
+  src: url(../fonts/BebasNeueBold.ttf);
+}
+@font-face {
+  font-family: BebasNeueBook;
+  src: url(../fonts/BebasNeueBook.otf);
+}
+@font-face {
+  font-family: MullerExtraBold;
+  src: url(../fonts/MullerExtraBold.otf);
+}
+
+.f_Roboto-Regular{
+  font-family: Roboto-Regular, sans-serif;
+}
+.f_Roboto-Bold{
+  font-family: Roboto-Bold, sans-serif;
+}
+.f_RobotoSlab-Bold{
+  font-family: RobotoSlab-Bold, sans-serif;
+}
+.f_RobotoSlab-Regular{
+  font-family: RobotoSlab-Regular, sans-serif;
+}
+.f_ProximaNova-Light-Italic{
+  font-family: ProximaNova-Light-Italic, sans-serif;
+}
+.f_ProximaNova-Light{
+  font-family: ProximaNova-Light, sans-serif;
+}
+.f_ProximaNova-Regular{
+  font-family: ProximaNova-Regular, sans-serif;
+}
+.f_ProximaNova-Semibold{
+  font-family: ProximaNova-Semibold, sans-serif;
+}
+.f_ProximaNova-Bold{
+  font-family: ProximaNova-Bold, sans-serif;
+}
+.f_AAbebas{
+  font-family: AABebas, sans-serif;
+}
+.f_BebasNeueRegular{
+  font-family: BebasNeueRegular, sans-serif;
+}
+.f_BebasNeueBold{
+  font-family: BebasNeueBold, sans-serif;
+}
+.f_BebasNeueBook{
+  font-family: BebasNeueBook, sans-serif;
+}
+.f_SourseSansProRegular{
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 400;
+}
+.f_SourseSansProSemibold{
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 600;
+}
+.f_SourseSansProBold{
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 700;
+}
+.f_OpenSanceRegular{
+  font-family: Open-Sance, sans-serif;
+  font-weight: 400;
+}
+.f_OpenSanceBold{
+  font-family: Open-Sance, sans-serif;
+  font-weight: 700;
+}
+
+/*/*font-size**/
+.fs_12{
+  font-size: 12px;
+}
+.fs_14{
+  font-size: 14px;
+}
+.fs_16{
+  font-size: 16px;
+}
+.fs_18{
+  font-size: 18px;
+}
+.fs_20{
+  font-size: 20px;
+}
+.fs_22{
+  font-size: 22px;
+}
+.fs_24{
+  font-size: 24px;
+}
+.fs_26{
+  font-size: 26px;
+}
+.fs_28{
+  font-size: 28px;
+}
+.fs_30{
+  font-size: 30px;
+}
+.fs_32{
+  font-size: 32px;
+}
+.fs_36{
+  font-size: 36px;
+}
+.fs_48{
+  font-size: 48px;
+}
+.fs_60{
+  font-size: 60px;
+}
+/*/* end font-size **/
+
+/* font color */
+.fc_rgba_255_02{
+  color: rgba(255, 255, 255, 0.2);
+}
+.fc_000{
+  color: #000000;
+}
+.fc_fff{
+  color: #ffffff;
+}
+.fc_7e7e{
+  color: #7e7e7e;
+}
+.fc_3e3e{
+  color: #3e3e3e;
+}
+.fc_f28b{
+  color: #f28b27;
+}
+.fc_e7cd{
+  color:  #e7cddc;
+}
+.fc_0031{
+  color:  #000031;
+}
+/* end font color */
+
+.f_upper{
+  text-transform: uppercase;
+}
+.f_cap{
+  text-transform: capitalize;
+}
+.f_underline{
+  text-decoration: underline;
+}
+.f_center{
+  text-align: center;
+}
+.f_fw_700{
+  font-weight: 700;
+}
+.f_lh_24{
+  line-height: 24px;
+}
+.f_ls_08{
+  letter-spacing: .8px;
+}
+.f_ls_1{
+  letter-spacing: 1px;
+}
